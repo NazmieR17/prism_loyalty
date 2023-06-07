@@ -1,2 +1,3 @@
 # prism_loyalty
 revamped_loyalty_programme
+Working in a team, we analysed an e-commerce data over the last 6 months to identify the success of their current loyalty scheme. We used SQL with GCP Big Query and Excel to analyse our data as well as Power BI to present our analysis. We focussed on 2 key metrics - average profit per user and conversion rates. We discovered ue to excessive discounting and poor member criteria, Prism+ members had a lower average profit per user by £2.48 and conversion rates were between 0.01% - 1.62% lower than non-members. However, by lowering discounts across the tiers, providing additional benefits and adjusting the tier assignment criteria, it is expected that average profit per user for Prism+ members should increase by a minimum of £0.50.
